@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+media/*
+!media/.gitkeep
+models/*
+!models/.gitkeep
+staticfiles/
+*.sqlite3
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/
